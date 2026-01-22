@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Tus estilos personalizados para la barra de navegación
+.navbar {
+    background-color: #000000 !important; /* Un color azul oscuro */
+    padding: 10px 0 !important; /* Ajustar el padding vertical */
+}
+
+.navbar-brand {
+    font-size: 2em !important; /* Hacer el logo más grande */
+    
+    color: #ffffff !important; /* Un color amarillo/naranja para el logo */
+}
+
+.navbar-nav .nav-link {
+    color: #ecf0f1 !important; /* Color de los enlaces */
+    margin-right: 15px; /* Espacio entre los enlaces */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #a80000 !important; /* Color de los enlaces al pasar el ratón */
+}

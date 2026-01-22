@@ -34,7 +34,7 @@ El sistema implementa operaciones **CRUD completas**, manejo de usuarios y persi
 - Migraciones y modelos implementados en Laravel (Eloquent ORM).
 
 ## Documentación
-La documentación del proyecto (diagramas, reportes y material académico) se encuentra en la carpeta:
+La documentación del proyecto se encuentra en la carpeta:
 ```
 /docs/
 ```
@@ -46,3 +46,4 @@ Proyecto personal y académico desarrollado como parte de formación en Ingenier
 - Integración de APIs
 - Bases de datos relacionales
 - Buenas prácticas de versionado con Git
+
